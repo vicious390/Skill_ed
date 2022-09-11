@@ -10,7 +10,7 @@
  splitting the data
  converting data into readable pandas format
  finding most recurred skills using iterators and dictionary
- coverting the json file into excel sheets
+ coverting the json file into excel sheets using pandas module
 
 # Visualization 
  using pandas and streamlit , excel sheet is formatted and displayed as a bar chart respresenting a specific job role and the most recurrd skills with  plotly
