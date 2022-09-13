@@ -21,9 +21,9 @@ sleep(1)
 
 ### login
 username = driver.find_element(By.ID,"session_key")
-username.send_keys("shaloobsaluwdr@gmail.com")
+username.send_keys("Type email************")
 password = driver.find_element(By.ID,"session_password")
-password.send_keys("Skilltec@123")
+password.send_keys("Type pass***********")
 driver.find_element(By.CLASS_NAME,"sign-in-form__submit-button").click()
 sleep(2)
 
